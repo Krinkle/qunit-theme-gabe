@@ -1,1 +1,1 @@
-# QUnit Gabe Theme [![Build Status](https://travis-ci.org/Krinkle/qunit-theme-gabe.png)](https://travis-ci.org/Krinkle/qunit-theme-gabe)
+# QUnit Gabe Theme [![Build Status](https://travis-ci.org/Krinkle/qunit-theme-gabe.png)](https://travis-ci.org/Krinkle/qunit-theme-gabe) [![NPM version](https://badge.fury.io/js/qunit-theme-gabe.png)](http://badge.fury.io/js/qunit-theme-gabe)
