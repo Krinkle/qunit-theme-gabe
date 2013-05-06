@@ -1,36 +1,36 @@
 {
-	"name": "qunit-theme-gabe",
-	"title": "QUnit Gabe Theme",
-	"description": "A QUnit theme by Gabe Hendry.",
-	"version": "1.0.1",
-	"author": {
-		"name": "jQuery Foundation and other contributors",
-		"url": "https://github.com/Krinkle/qunit-theme-gabe/blob/master/AUTHORS.txt"
-	},
-	"homepage": "https://github.com/Krinkle/qunit-theme-gabe",
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/Krinkle/qunit-theme-gabe.git"
-	},
-	"bugs": {
-		"url": "https://github.com/Krinkle/qunit-theme-gabe/issues"
-	},
-	"license": {
-		"name": "MIT",
-		"url": "http://www.opensource.org/licenses/mit-license.php"
-	},
-	"keywords": [
-		"qunit",
-		"qunit-plugin",
-		"qunit-theme"
-	],
-	"scripts": {
-		"test": "grunt test"
-	},
-	"devDependencies": {
-		"grunt": "~0.4.1",
-		"grunt-contrib-jshint": "~0.4.3",
-		"grunt-contrib-qunit": "~0.2.1",
-		"qunitjs": "~1.11.0"
-	}
+  "name": "qunit-theme-gabe",
+  "title": "QUnit Gabe Theme",
+  "description": "A QUnit theme by Gabe Hendry.",
+  "version": "1.0.2-pre",
+  "author": {
+    "name": "jQuery Foundation and other contributors",
+    "url": "https://github.com/Krinkle/qunit-theme-gabe/blob/master/AUTHORS.txt"
+  },
+  "homepage": "https://github.com/Krinkle/qunit-theme-gabe",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Krinkle/qunit-theme-gabe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Krinkle/qunit-theme-gabe/issues"
+  },
+  "license": {
+    "name": "MIT",
+    "url": "http://www.opensource.org/licenses/mit-license.php"
+  },
+  "keywords": [
+    "qunit",
+    "qunit-plugin",
+    "qunit-theme"
+  ],
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.4.3",
+    "grunt-contrib-qunit": "~0.2.1",
+    "qunitjs": "~1.11.0"
+  }
 }
