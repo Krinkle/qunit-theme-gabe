@@ -2,7 +2,7 @@
 	"name": "qunit-theme-gabe",
 	"title": "QUnit Gabe Theme",
 	"description": "A QUnit theme by Gabe Hendry.",
-	"version": "1.0.0",
+	"version": "1.0.1-pre",
 	"author": {
 		"name": "jQuery Foundation and other contributors",
 		"url": "https://github.com/Krinkle/qunit-theme-gabe/blob/master/AUTHORS.txt"
