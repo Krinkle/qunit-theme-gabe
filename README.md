@@ -6,4 +6,8 @@
 2. Remove `<link rel="stylesheet" href="qunitjs/qunit/qunit.css">`
 3. Add `<link rel="stylesheet" href="qunit-theme-gabe/qunit-theme-gabe.css">`
 
+## Example
+
 See `test/index.html` for an example.
+
+![Screenshot of v1.0.1](http://i.imgur.com/7FYzT53.png)
