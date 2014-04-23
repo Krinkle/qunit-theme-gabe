@@ -1,4 +1,4 @@
-# QUnit Gabe Theme [![Build Status](https://travis-ci.org/Krinkle/qunit-theme-gabe.svg?branch=master)](https://travis-ci.org/Krinkle/qunit-theme-gabe) [![NPM version](https://badge.fury.io/js/qunit-theme-gabe.png)](https://badge.fury.io/js/qunit-theme-gabe)
+# QUnit Gabe Theme [![Build Status](https://travis-ci.org/Krinkle/qunit-theme-gabe.svg?branch=master)](https://travis-ci.org/Krinkle/qunit-theme-gabe) [![NPM version](https://badge.fury.io/js/qunit-theme-gabe.svg)](https://badge.fury.io/js/qunit-theme-gabe)
 
 ## Usage
 
