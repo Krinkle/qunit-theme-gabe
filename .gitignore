@@ -1,2 +1,2 @@
 node_modules/*
-!node_modules/qunitjs
+!node_modules/qunit/qunit

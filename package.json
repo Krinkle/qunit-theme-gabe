@@ -2,11 +2,7 @@
   "name": "qunit-theme-gabe",
   "title": "QUnit Gabe Theme",
   "description": "A QUnit theme by Gabe Hendry.",
-  "version": "1.0.2-pre",
-  "author": {
-    "name": "jQuery Foundation and other contributors",
-    "url": "https://github.com/Krinkle/qunit-theme-gabe/blob/master/AUTHORS.txt"
-  },
+  "version": "2.0.0",
   "homepage": "https://github.com/Krinkle/qunit-theme-gabe",
   "repository": {
     "type": "git",
@@ -24,14 +20,15 @@
     "qunit-plugin",
     "qunit-theme"
   ],
+  "files": [
+    "qunit-theme-gabe.css"
+  ],
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt qunit"
   },
   "devDependencies": {
-    "grunt": "~0.4.1",
-    "grunt-contrib-jshint": "~0.4.3",
-    "grunt-contrib-qunit": "~0.2.1",
-    "grunt-git-authors": "~1.2.0",
-    "qunitjs": "~1.11.0"
+    "grunt": "^1.3.0",
+    "grunt-contrib-qunit": "^2.0.0",
+    "qunit": "^2.11.0"
   }
 }
