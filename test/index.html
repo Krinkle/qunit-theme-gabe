@@ -1,14 +1,22 @@
 <!DOCTYPE html>
-<html>
-<head>
-	<meta charset="UTF-8">
-	<title>QUnit Test Suite</title>
-	<link rel="stylesheet" href="../qunit-theme-gabe.css">
-	<script src="../node_modules/qunitjs/qunit/qunit.js"></script>
-	<script src="../node_modules/qunitjs/test/test.js"></script>
-</head>
-<body>
-	<div id="qunit"></div>
-	<div id="qunit-fixture">test markup</div>
-</body>
-</html>
+<meta charset="UTF-8">
+<title>QUnit Test Suite</title>
+<link rel="stylesheet" href="../qunit-theme-gabe.css">
+<script src="../node_modules/qunit/qunit/qunit.js"></script>
+<script>
+function add(a, b) {
+	return a + b
+};
+QUnit.module('add');
+QUnit.test('two numbers', function(assert) {
+	assert.equal(add(0, 1), 1, 'add 0 + 1');
+	assert.equal(add(1, 1), 2, 'add 1 + 1');
+	assert.equal(add(1, 2), 3, 'add 1 + 2');
+	assert.equal(add(2, 3), 5, 'add 2 + 3');
+	assert.equal(add(3, 5), 8, 'add 3 + 5');
+	assert.equal(add(5, 8), 13, 'add 5 + 8');
+	assert.equal(add(8, 13), 21, 'add 8 + 13');
+});
+</script>
+<div id="qunit"></div>
+<div id="qunit-fixture">test markup</div>
