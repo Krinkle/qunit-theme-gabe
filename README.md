@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Krinkle/qunit-theme-nv.svg?branch=master)](https://travis-ci.org/Krinkle/qunit-theme-nv) [![npm](https://img.shields.io/npm/v/qunit-theme-nv.svg?style=flat)](https://www.npmjs.com/package/qunit-theme-nv)
+[![Build Status](https://travis-ci.org/Krinkle/qunit-theme-gabe.svg?branch=master)](https://travis-ci.org/Krinkle/qunit-theme-gabe) [![npm](https://img.shields.io/npm/v/qunit-theme-gabe.svg?style=flat)](https://www.npmjs.com/package/qunit-theme-gabe)
 
 # QUnit Gabe Theme
 
