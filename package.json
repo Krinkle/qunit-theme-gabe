@@ -13,7 +13,7 @@
   },
   "license": {
     "name": "MIT",
-    "url": "http://www.opensource.org/licenses/mit-license.php"
+    "url": "https://opensource.org/licenses/MIT"
   },
   "keywords": [
     "qunit",
@@ -23,12 +23,7 @@
   "files": [
     "qunit-theme-gabe.css"
   ],
-  "scripts": {
-    "test": "grunt qunit"
-  },
-  "devDependencies": {
-    "grunt": "^1.3.0",
-    "grunt-contrib-qunit": "^2.0.0",
+  "peerDependencies": {
     "qunit": "^2.11.0"
   }
 }
